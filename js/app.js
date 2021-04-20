@@ -1,1 +1,1 @@
-console.log("Mis primeros pasos GIT prueba de comandos");
+console.log("Comnados de Git basicos");
