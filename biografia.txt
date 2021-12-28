@@ -1,4 +1,6 @@
 Buenas
 
 Tardes sus personas estamos iniciando en git
-estamos avanzando en nuevos comandos basicos
+estamos avanzando en nuevos comandos basicos.
+
+Navegaremos entre las versiones y haremos uso del vim.
