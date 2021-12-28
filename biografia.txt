@@ -1,3 +1,4 @@
 Buenas
 
-Las tengan sus personas estamos iniciando en git
+Tardes sus personas estamos iniciando en git
+estamos avanzando en nuevos comandos basicos
