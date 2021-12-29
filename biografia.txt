@@ -1,4 +1,8 @@
 Buenas
 
+<<<<<<< HEAD
 Las tengan sus personas me presento soy Carlos Martinez Ingeniero de Software titulado  trabajo como Promador en Comfatolima desde hace ya 5 años.
 Soy ibaguereño a mucha orgullo tengo 32 años y me gusta ver anime.
+=======
+Las tengan sus personas me presento soy Carlos Martinez tengo 32 años y vivo en la ciudad de Ibague, soy ingeniero de Sistemas titulado  y trabajo como Programador en Comfatolima desde hace ya 5 años.
+>>>>>>> main
