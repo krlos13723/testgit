@@ -35,3 +35,10 @@ h1{
 #post{
     padding: 1.5rem;
 }
+
+#footer{
+    background-color: rgba(0,0,0, .25);
+    color:#fff;
+    font-size:1.15em;
+    text-align:right;
+}
